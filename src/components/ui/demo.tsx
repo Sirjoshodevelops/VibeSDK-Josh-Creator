@@ -1,5 +1,3 @@
-import React from 'react';
-
 import { DottedSurface } from '@/components/ui/dotted-surface';
 import { cn } from '@/lib/utils';
 
